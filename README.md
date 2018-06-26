@@ -1,2 +1,2 @@
-# html_css_intro
+# HTML & CSS Intro
 Repo for GA HTML/CSS workshop
