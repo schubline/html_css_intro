@@ -1,0 +1,12 @@
+h1 {
+  font-size: 90px;
+  color: red;
+}
+
+/* 1 CSS selector, 1 Declaration block (denoted by curlies)
+which contains 2 Declarations  each formed with property: value */
+
+.blue-headding{
+  font-size: 24px;
+  color: blue;
+}

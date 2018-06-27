@@ -18,3 +18,6 @@ CSS: adjective, making it look prety
 Javascript: verb; how do you interact with the page
 
 - Javascript can be used as a backend language
+
+# CSS Elements
+- 
